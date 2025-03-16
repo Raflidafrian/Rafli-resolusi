@@ -2,5 +2,5 @@ RAFLI RESOLUSI
 - Konsisten untuk membuat konten 1x seminggu
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
-- Membuat Web apllication untuk mengelola data perusahaan
 - Kolaborasi dengan lebih banyak expert
+- Membuat vlog
