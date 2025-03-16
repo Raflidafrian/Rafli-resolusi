@@ -3,4 +3,4 @@ RAFLI RESOLUSI
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
-- Membuat vlog
+- Menganalisa data sehingga memperlancar jalannya web
